@@ -1,7 +1,8 @@
-## Try it
+## 接口文档：
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+https://github.com/1557812300/mockdata/demo
 
-## Use your own data
+## 使用你自己的数据
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+使用' db. Json '值创建一个repo.json文件。
+
